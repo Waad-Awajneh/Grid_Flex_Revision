@@ -1,0 +1,126 @@
+body{
+    height: 100vh;
+    width: 100%;
+color: #FFF;
+text-align: center;
+font-size:larger;
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+
+}
+
+main{
+    width: 100%;
+    height: 80%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+   
+}
+header{
+   
+    background-color: #23d4ff;
+    height: 9%;
+    }
+    
+
+footer{
+   display: flex;
+    background-color: #fea500;
+    height: 10%;
+
+}
+
+div{
+    width: 100%;
+    height: 100%;
+}
+
+
+
+
+.bottom_box{
+display: flex;
+flex-direction: row;
+height: 19.5%;
+width: 100%;
+justify-content: space-between;
+
+
+}
+
+.Right_box
+{    display: flex;
+    flex-direction: column;
+    width: 59.5%;
+    justify-content: space-between;
+
+}
+
+
+.left_box{
+    display: flex;
+    flex-direction: column;
+    width: 40%;
+    justify-content: space-between;
+
+}
+.mid{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    height: 80%;
+    }
+
+
+
+
+
+
+.hero{
+   
+    background-color: #dfcadd;
+    
+  /* margin-bottom: 8px,; */
+  height: 40%;
+
+}
+
+
+.MainContent{
+
+     height: 79.5%;
+    background-color: #edc527;
+
+}
+.ExtraContent{
+    height: 20%; 
+  
+      background-color: #898987;
+  
+  }
+.Sidebar{
+   
+    height: 59.5%;
+
+    background-color: #80c268;
+
+}
+
+.RelatedImages{
+    width: 79.5%;
+
+    background-color: #00b68d;
+
+}
+.RelatedPosts{
+    width:20%;
+
+   
+    background-color: #ffcdd4;
+
+}
+
+
